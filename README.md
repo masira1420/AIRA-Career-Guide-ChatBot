@@ -36,14 +36,14 @@ Optionally integrates with **OpenAI GPT** or **Google Gemini** for AI-driven ins
 ---
 
 ## 📂 Project Structure
-
-```plaintext
+```plain text
 .
 ├── careers.db          # SQLite database containing subjects & careers
 ├── .env                # Environment variables (API keys)
 ├── main.py             # Main Streamlit application
 ├── requirements.txt    # Python dependencies
 └── README.md           # Project documentation
+```
 ---
 
 ## 🛠️ Tech Stack
